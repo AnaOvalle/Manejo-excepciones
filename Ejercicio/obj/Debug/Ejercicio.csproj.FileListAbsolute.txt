@@ -1,0 +1,7 @@
+C:\Users\asfix\OneDrive\POO u5\Ejercicio\bin\Debug\Ejercicio.exe.config
+C:\Users\asfix\OneDrive\POO u5\Ejercicio\bin\Debug\Ejercicio.exe
+C:\Users\asfix\OneDrive\POO u5\Ejercicio\bin\Debug\Ejercicio.pdb
+C:\Users\asfix\OneDrive\POO u5\Ejercicio\obj\Debug\Ejercicio.csproj.AssemblyReference.cache
+C:\Users\asfix\OneDrive\POO u5\Ejercicio\obj\Debug\Ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\asfix\OneDrive\POO u5\Ejercicio\obj\Debug\Ejercicio.exe
+C:\Users\asfix\OneDrive\POO u5\Ejercicio\obj\Debug\Ejercicio.pdb
